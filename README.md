@@ -1,2 +1,5 @@
 # vsh
-河北这一片地方能生养出周某人这样的人杰地灵，真是有说法，离神多远未知，但离人以及不进了，预知后事如何，且听下回分晓
+wilsonfreitas/awesome-quant 介绍了有关于量子力学方面的知识
+thuquant/awesome-quant 介绍了各种有关于编程的知识获取方法
+hudson-and-thames/a-practitioners-guide-to-the-ONC-algorithm通过ONC算法的可用性，为金融文献做出了贡献
+
